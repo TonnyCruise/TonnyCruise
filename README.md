@@ -56,9 +56,11 @@ Internal desktop network utility for ISP field/NOC work — ping, traceroute, DN
 
 ### 📊 GitHub Stats
 
-![Tonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonnyCruise&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyCruise&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonnyCruise&theme=radical)
+
+![Followers](https://img.shields.io/github/followers/TonnyCruise?label=Followers&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=TonnyCruise&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
 
 ---
 
